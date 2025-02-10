@@ -15,7 +15,7 @@ This project is a simple blockchain implementation in Python that demonstrates c
 Ensure you have Python 3 installed.  
 
 ### **Clone the Repository**  
-git clone https://github.com/yourusername/blockchain-implementation.git  
+git clone https://github.com/gaanavreddy007/Blockchain-Implementation.git
 cd blockchain-implementation
 
   
