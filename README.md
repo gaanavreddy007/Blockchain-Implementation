@@ -16,9 +16,8 @@ Ensure you have Python 3 installed.
 
 ### **Clone the Repository**  
 git clone https://github.com/gaanavreddy007/Blockchain-Implementation.git
-cd blockchain-implementation
+cd Blockchain-Implementation
 
-  
 ### **Run the Blockchain Demonstration**  
 python blockchain.py
 
